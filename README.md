@@ -1,39 +1,21 @@
 kfd-test-assignment-for-students/
-
 ├── bin/                    # Скомпилированные объектные файлы
-
 ├── source/                 # Исходные файлы проекта
-
 │   ├── Book.cpp
-
 │   ├── Book.h
-
 │   ├── Library.cpp
-
 │   ├── Library.h
-
 │   ├── LibraryUI.cpp
-
 │   ├── LibraryUI.h
-
 │   ├── main.cpp
-
 │   ├── User.cpp
-
 │   └── User.h
-
 ├── tests/                  # Файлы тестирования
-
 │   ├── catch.hpp
-
 │   └── tests.cpp
-
 ├── Makefile               # Файл для сборки проекта
-
 ├── library_app            # Исполняемый файл приложения (после сборки)
-
 ├── library_test           # Исполняемый файл тестов (после сборки)
-
 └── README.md              # Этот файл
 
 ---
